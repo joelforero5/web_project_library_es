@@ -43,7 +43,7 @@ p {
 .nav__link {
   color: #000000;
   text-decoration: none;
-  font-weight: 400;
+  font-weight: bold;
 }
 
 .header__content {
@@ -117,12 +117,9 @@ p {
 .staff__cards {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   max-width: 760px;
-  margin-top: 68px;
-  margin-bottom: 68px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 68px auto 0;
   gap: 40px;
   list-style-type: none;
   padding: 0;
@@ -151,7 +148,7 @@ p {
 }
 
 .card__text {
-  margin: 20px auto;
+  margin: 20px 0 0;
   font-size: 16px;
   line-height: 24px;
   overflow-y: auto;
