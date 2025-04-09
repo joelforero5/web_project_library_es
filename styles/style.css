@@ -257,17 +257,17 @@ p {
 
 .person_name_feynman {
   right: 319px;
-  bottom: 447px;
+  top: -30px;
 }
 
 .person_name_burbidge {
   right: 125px;
-  bottom: 360px;
+  top: 95px;
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
 }
 
 .person_name_cannon {
-  bottom: 16px;
+  bottom: 18px;
   right: 216px;
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
 }
@@ -280,7 +280,7 @@ p {
 
 .person_name_tarter {
   left: 159px;
-  bottom: 377px;
+  top: 79px;
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
 }
 
