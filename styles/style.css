@@ -401,7 +401,7 @@ p {
 .footer__column-link {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
   color: white;
   text-decoration: none;
   column-gap: 10px;
